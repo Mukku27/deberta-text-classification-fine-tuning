@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model weights & large datasets
+*.pth
+*.pt
+*.bin
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary or log files
+*.log
+
+# Hugging Face cache
+~/.cache/huggingface/
