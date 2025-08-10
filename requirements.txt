@@ -1,0 +1,10 @@
+torch==2.2.2
+transformers
+scikit-learn
+pandas
+tqdm
+tiktoken
+tokenizers
+huggingface_hub
+sentencepiece
+protobuf
